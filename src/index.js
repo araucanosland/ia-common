@@ -6,7 +6,5 @@ function helloWorld(){
     console.log('Hello World');
 }
 
-module.exports = {
-    sumar: sumar,
-    saludar: helloWorld
-}
+export const sumar = sumar;
+export const saludar = helloWorld;

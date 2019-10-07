@@ -1,6 +1,6 @@
 {
   "name": "@araucanosland/ia-common",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "common lib for la araucana",
   "main": "src/index.js",
   "scripts": {
